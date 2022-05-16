@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/watcha-hosting/static/css/main.4c316b76.css",
-    "main.js": "/watcha-hosting/static/js/main.1c5a76cb.js",
+    "main.js": "/watcha-hosting/static/js/main.2b6c5753.js",
     "static/js/787.5bbf980e.chunk.js": "/watcha-hosting/static/js/787.5bbf980e.chunk.js",
     "index.html": "/watcha-hosting/index.html",
     "main.4c316b76.css.map": "/watcha-hosting/static/css/main.4c316b76.css.map",
-    "main.1c5a76cb.js.map": "/watcha-hosting/static/js/main.1c5a76cb.js.map",
+    "main.2b6c5753.js.map": "/watcha-hosting/static/js/main.2b6c5753.js.map",
     "787.5bbf980e.chunk.js.map": "/watcha-hosting/static/js/787.5bbf980e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c316b76.css",
-    "static/js/main.1c5a76cb.js"
+    "static/js/main.2b6c5753.js"
   ]
 }
